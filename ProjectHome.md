@@ -1,0 +1,1 @@
+By "apex", TwitterAPI is accessed using OAuth.
